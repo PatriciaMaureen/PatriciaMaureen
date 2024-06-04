@@ -1,3 +1,5 @@
+## Welcome to my GitHub Profile
+
 Hi there 👋 I’m Patricia, and I’m based in the beautiful city of Hamburg.
 
 ## About Me
