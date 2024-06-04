@@ -5,13 +5,18 @@ Hi there 👋 I’m Patricia, and I’m based in the beautiful city of Hamburg.
 ## About Me
 My passion for numbers led me to complete a data science bootcamp, enhancing my data experience.
 
+
 ## What I Do
 I love working with data to uncover insights and create meaningful stories. My skills include:
 
 • Data Analysis using Python (Pandas, NumPy) and MySQL
+
 • Data scraping, cleaning, preparation, preprocessing and modeling
+
 • Data Visualization using Tableau and Seaborn
+
 • Supervised & Unsupervised Machine Learning Models
+
 
 ## Let's Connect
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/patricia-sewing) or check out my projects here on GitHub.
