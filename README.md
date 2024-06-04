@@ -9,11 +9,8 @@ My passion for numbers led me to complete a data science bootcamp, enhancing my 
 I love working with data to uncover insights and create meaningful stories. My skills include:
 
 • Data Analysis using Python (Pandas, NumPy) and MySQL
-
 • Data scraping, cleaning, preparation, preprocessing and modeling
-
 • Data Visualization using Tableau and Seaborn
-
 • Supervised & Unsupervised Machine Learning Models
 
 ## Let's Connect
