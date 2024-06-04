@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+My passion for numbers led me to do a data science bootcamp, enhancing my data experience. I am passionate about transforming data into meaningful stories. 
