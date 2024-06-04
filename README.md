@@ -14,7 +14,7 @@ I love working with data to uncover insights and create meaningful stories. My s
 - Python programming
 
 ## Let's Connect
-Feel free to reach out to me on LinkedIn or check out my projects here on GitHub.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/patricia-sewing) or check out my projects here on GitHub.
 
 
 
